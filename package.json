@@ -1,0 +1,24 @@
+{
+  "name": "part-3",
+  "version": "1.0.0",
+  "description": "backend dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGeekyCoder06/Backend-dev.git"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "development"
+  ],
+  "author": "Harshith M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGeekyCoder06/Backend-dev/issues"
+  },
+  "homepage": "https://github.com/TheGeekyCoder06/Backend-dev#readme"
+}
